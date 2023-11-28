@@ -1,0 +1,16 @@
+= Structs - Erklärungen und Beispiele
+
+Ein Struct in seiner einfachsten Form besteht lediglich aus einer Reihe von Variablen,
+die innerhalb des Structs deklariert werden.
+Man kann es sich als Gruppierung von Variablen vorstellen, die
+alle gleichzeitig definiert und instanziiert werden, und die über einen gemeinsamen
+Namen addressiert werden können.
+
+Das ist z.B. nützlich, um Datensätze zu speichern, die aus mehreren unterschiedlichen
+Einträgen bestehen.
+Klassische Beispiele sind Adressbucheinträge, Kunden- oder Rechnungsdaten,
+Lagerverwaltung o.Ä.
+
+Neben der einfacher Datenhaltung können für Structs auch *Methoden* definiert werden.
+Das sind Funktionen, deren Zweck es ist, auf die Daten im Struct zuzugreifen und sie
+zu manipulieren oder in aufbereiteter Form zu liefern.
