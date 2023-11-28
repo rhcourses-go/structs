@@ -1,0 +1,23 @@
+= Minimalistisches Wörterbuch mit Funktionen und Methoden
+
+Hier werden die gleichen Struct-Datentypen wie im Package link:dict1/README.adoc[dict1]
+definiert. Auch die Beispiele zur Definition und Verwendung sind die gleichen.
+
+Zusätzlich wird für jeden der Datentypen eine Reihe von Funktionen bzw. Methoden
+definiert, die die Verwendung im Beispielcode übersichtlicher machen sollen.
+
+== Datei-Überblick
+
+* link:entry.go[]:
+  Hier wird der Datentyp für Einträge als Struct definiert.
+* link:entry_test.go[]:
+  Hier gibt es Beispiele, wie man `Entry`-Objekte erzeugt und verwendet.
+* link:dict.go[]:
+  Hier wird der Datentyp für das Wörterbuch als Struct definiert.
+* link:dict_test.go[]:
+  Hier gibt es Beispiele, wie man `Dict`-Objekte erzeugt und verwendet.
+  
+== Lesehinweis
+
+Die Erklärungen zu den Teilen, die schon in link:dict1/README.adoc[dict1] vorhanden waren,
+sind hier teilweise knapper oder ganz gestrichen.
