@@ -1,0 +1,9 @@
+# Methoden
+
+Im Unterordner link:sports/README.adoc[`sports`] definieren wir ein einfaches Struct
+mit einigen Methoden.
+
+Das Setting für das Beispiel sind Sport-Matches.
+Es wird ein Datentyp für ein Spiel zweier Mannschaften definiert.
+Das Beispiel ist aus Konsistenz- und Namensgebungsgründen in einem eigenen Unterordner
+angelegt, obwohl es das einzige in diesem Verzeichnis ist.

@@ -1,0 +1,13 @@
+= Package `sports`
+
+Hier wird ein Datentyp link:match.go[`Match`] definiert.
+Dieser Datentyp enthält Metadaten zu Sportveranstaltungen zwischen zwei Mannschaften,
+wie sie z.B. beim Fußball, Handball o.Ä. vorkommen.
+
+== Lesehinweis
+
+Die Datei link:match.go[] enthält eine Definition des Datentyps `Match`,
+Diese Definition besteht aus zwei Teilen:
+
+1. Die eigentliche Struct-Definition.
+2. Die Definition von Methoden, die auf dem Struct operieren.
